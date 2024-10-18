@@ -7,5 +7,5 @@ Sends and verifies emails via SMTP
 Supports multiple domains and email addresses
 Easy to configure and use
 
-
-<email_address> <smtp_server> <password>
+smtp_info.txt syntax
+test@domain.com mail.domain.com Password1234**
