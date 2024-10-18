@@ -8,4 +8,6 @@ Supports multiple domains and email addresses
 Easy to configure and use
 
 smtp_info.txt syntax
+
+
 test@domain.com mail.domain.com Password1234**
