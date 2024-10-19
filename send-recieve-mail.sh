@@ -10,7 +10,7 @@ FROM_NAME="Test Gönderen"
 SMTP_SERVER="mail.domain.com.tr"
 PASSWORD="Password123"
 PORT="587"  # 465 veya 587 portunu belirleyebilirsin
-TO_EMAIL="testt@gmail.com"
+TO_EMAIL="test@gmail.com"
 
 # Mail gönderme fonksiyonu
 send_mail() {
