@@ -8,7 +8,7 @@ SMTP_FILE="smtp_info.txt"  # dum sunucular
 FROM_EMAIL="admin@domain.com.tr"
 FROM_NAME="Test Gönderen"
 SMTP_SERVER="mail.domain.com.tr"
-PASSWORD="Enessahin09."
+PASSWORD="Password123"
 PORT="587"  # 465 veya 587 portunu belirleyebilirsin
 TO_EMAIL="testt@gmail.com"
 
